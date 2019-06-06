@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LocusTryApp</string>
+    <string name="loading_app_data_msg">Loading... Please wait!</string>
+    <string name="no_data_found">No Data Found</string>
+    <string name="upload_text">Upload your photo</string>
+    <string name="comment_init_text">Provide Comment?</string>
+    <string name="comment_hint">Type comment</string>
+</resources>
